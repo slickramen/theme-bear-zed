@@ -1,0 +1,7 @@
+id = "bear-theme"
+name = "Bear Theme"
+version = "0.0.1"
+schema_version = 1
+authors = ["Martyn Gascoigne"]
+description = "A Zed theme based on Bear Theme for VS Code"
+repository = "https://github.com/slickramen/theme-bear-zed"
